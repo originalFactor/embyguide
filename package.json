@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-starter",
+  "name": "embyGuide",
   "private": true,
   "scripts": {
     "dev": "vuepress dev docs",

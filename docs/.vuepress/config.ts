@@ -6,7 +6,6 @@ export default defineUserConfig({
   base: '/',
   title: 'Emby通用教程',
   description: 'Emby快速使用',
-  lang: 'zh-CN',
   bundler: viteBundler({
     // vite bundler options here
   }),
@@ -34,5 +33,8 @@ export default defineUserConfig({
         link: '/guide/proxy/',
       },
     ],
+    themePlugins: {
+      git: false
+    }
   }),
 });
