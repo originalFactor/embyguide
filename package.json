@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-starter",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "next",
+    "@vuepress/theme-default": "next",
+    "vuepress": "next",
+    "vue": "^3.4.15"
+  }
+}
