@@ -21,7 +21,7 @@
 ## 故障排除
 
 若出现“401 Unauthorized”，请尝试退回到“连接”页面并打开保存的连接、更换服务器地址或打开代理。
-![ios-fileball-connections-final](https://i.postimg.cc/63sgG5t5/20240413161826.png)
+![ios-fileball-connections-final](https://i.postimg.cc/1XhvNtVx/20240413161826.png)
 
 ## 享受
 
