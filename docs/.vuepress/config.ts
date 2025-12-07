@@ -17,10 +17,6 @@ export default defineUserConfig({
         link: '/',
       },
       {
-        text: '介绍',
-        link: '/guide/',
-      },
-      {
         text: '安装',
         link: '/guide/install/',
       },
