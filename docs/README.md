@@ -1,10 +1,10 @@
 ---
 home: true
 title: 主页
-heroImage: https://emby.media/resources/logowhite_1881.png
+heroImage: ./emby.png
 actions:
-  - text: 快速入门
-    link: /guide/
+  - text: 开始
+    link: /guide/install/
     type: primary
-footer: MIT Licensed | Copyright TheUnknownOne © 2024-present
+footer: MIT Licensed | Copyright originalFactor © 2024-2025
 ---
