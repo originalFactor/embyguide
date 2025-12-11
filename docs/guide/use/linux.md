@@ -23,7 +23,25 @@ sudo flatpak install flathub moe.tsuna.tsukimi
 
 ## 使用
 
-Linux 生态简直一坨，何意味flatpak下载量比总量多，截止笔者写完其他所有平台之后他还没装上……
+```sh
+flatpak run moe.tsuna.tsukimi
+```
+
+![image-20251212012111154](linux.assets/image-20251212012111154.png)
+
+点击 Add Server
+
+![image-20251212012144702](linux.assets/image-20251212012144702.png)
+
+填写名称、选择https协议、填写域名和端口、用户名（Username）、密码（Password），点击 Add
+
+![image-20251212012324430](linux.assets/image-20251212012324430.png)
+
+回到这个界面，点击新添加的服务器
+
+![image-20251212012402179](linux.assets/image-20251212012402179.png)
+
+可以使用（我使用的WSL安装的所以中文乱码，理论上正常Linux无此问题）
 
 ## 继续
 
