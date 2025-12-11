@@ -1,23 +1,33 @@
 # Windows 使用
 
-请确保您安装了我们提供的Emby Windows客户端。
+以 Hills Lite 为例。
 
-## 开始
+## 安装
 
-打开客户端，您将转到如下界面：
-![win-emby-start](https://i.postimg.cc/J4fVF8mF/20240413165110.jpg)
+**在此前教程中已安装过 Hills Lite 的用户，跳过此步骤。**
 
-## 连接
+*本步骤需要您的 Windows 系统带有可以正常使用的 Microsoft Store，否则请参考[此处](../install/offline-appx.md)*
 
-点击“添加服务器”，进入如下界面，填写主机名、端口信息。
-![win-emby-connect](https://i.postimg.cc/ncgpt7K0/20240413165114.jpg)
+在开始菜单中，找到Microsoft Store，打开，在顶部搜索栏搜索 `Hills Lite`
 
-## 登录
+![image-20251211233858687](windows.assets/image-20251211233858687.png)
 
-点击“连接”，进入下图界面，填写用户名、密码。
-![win-emby-login](https://i.postimg.cc/wjNHxv0H/20240413165117.jpg)
+进入该页面后，点击安装即可。
 
-## 享受
+## 使用
 
-点击“登录”，进入主页，享受影视！
-![win-emby-home](https://i.postimg.cc/L5s2m300/20240413165120.jpg)
+从开始菜单中打开 Hills Lite，界面如下
+
+![image-20251211234009945](windows.assets/image-20251211234009945.png)
+
+点击左下角的“添加服务器”选项，根据之前获取的信息填写，点击登录
+
+![image-20251212000221459](windows.assets/image-20251212000221459.png)
+
+在侧边栏选择对应服务器，即可享受
+
+![image-20251212000334346](windows.assets/image-20251212000334346.png)
+
+## 继续
+
+- [返回](README.md)

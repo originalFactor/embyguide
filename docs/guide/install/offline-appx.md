@@ -31,3 +31,9 @@ https://apps.microsoft.com/detail/9nxnzfrllwzx
 ```ps1
 Add-AppxPackage -Path .\Mountains.HillsLite_0.2.8.0_x64__jja6j3cje9wfy.Msix
 ```
+
+此时在开始菜单中应该可以找到 Hills Lite 的选项。
+
+## 继续
+
+- [返回](README.md)
