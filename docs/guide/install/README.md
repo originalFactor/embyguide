@@ -17,7 +17,7 @@ Emby 的 HTML5 客户端和服务器是绑定的，一般在服务器的 8096 �
 ## 桌面端
 
 - Windows: [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx) （精简版Windows[点这里](./offline-appx.md)）
-- Linux: [Tsukimi](https://github.com/tsukinaha/tsukimi/releases/latest)
+- Linux: [Tsukimi](https://github.com/tsukinaha/tsukimi)
 - MacOS: [VidHub](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?platform=mac) （*不提供教程，查看[官网](https://zh.vidhub.okaapps.com/)*；*可能的内购付费*）
 
 以上程序均适用于 X86 架构 64 位 CPU。

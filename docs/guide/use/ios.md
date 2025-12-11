@@ -27,3 +27,7 @@
 
 在完成上述步骤后，您将转到如图界面，享受您的Emby服务吧！
 ![ios-fileball-emby](https://i.postimg.cc/PJfjPrQv/20240413162348.jpg)
+
+## 继续
+
+- [返回](README.md)

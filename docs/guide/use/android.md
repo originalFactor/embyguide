@@ -1,21 +1,31 @@
 # Android 使用
 
-## 开始
+本教程以 Ghosten Player 为例，[下载链接](https://github.com/GhostenEditor/Ghosten-Player/releases/latest)
 
-首先，确保您安装了我们提供的应用（其他软件同理）。打开应用，您应该看到如下界面：
-![android-emby-app-screenshot-startscreen](https://i.postimg.cc/FsWvt7Bq/photo1712990702.jpg)
+![image-20251212002813696](android.assets/image-20251212002813696.png)
 
-## 添加服务器
+大部分情况下下载第一个文件就足够了，如果你的手机比较老可以尝试下载第三个。安装就不用多说了吧直接打开安装包就行，注意不要被系统自带浏览器和什么应用市场什么的坑了。
 
-您应该点击“添加服务器”按钮，转到如下界面并填写您之前获得的服务器主机和端口：
-![android-emby-app-screenshot-addserver](https://i.postimg.cc/jd51VvN6/photo1712991152.jpg)
+![image-20251212003045755](android.assets/image-20251212003045755.png)
 
-## 登录
+打开 Ghosten Player，底栏设置->远程服务器设置
 
-点击“连接”，您应该被转到如图界面，填写获取的用户名和密码：
-![android-emby-app-screenshot-login](https://i.postimg.cc/ry9cJhCq/photo1712990702-2.jpg)
+![image-20251212003122729](android.assets/image-20251212003122729.png)
 
-## 享受
+右上角加号
 
-点击“登录”，您将转到主页，现在就可以尽情享受了！
-![android-emby-app-screenshot-home](https://i.postimg.cc/kGwmg4X2/photo1712990702-3.jpg)
+![image-20251212003201753](android.assets/image-20251212003201753.png)
+
+注意这里直接写原本用冒号连着的地址就行不用分开，User Agent不用填，然后右上角对钩。
+
+![image-20251212003419643](android.assets/image-20251212003419643.png)
+
+回到这个页面，选择新出现的服务器，点启用
+
+![image-20251212003526907](android.assets/image-20251212003526907.png)
+
+然后左上角一路返回到首页就可以看了，我这里没有开代理所以没有加载出来
+
+## 继续
+
+- [返回](README.md)
